@@ -1,1 +1,1 @@
-# ListadoPersonas
+# An app to add and to list people made with JavaScript
